@@ -1,5 +1,6 @@
 # superflood
 Floode um canal do discord, Projeto educativo, não use para o mal!
+![video](https://github.com/user-attachments/assets/d4c616ad-283f-4cfc-835c-b119113eb5f0)
 ![print](https://github.com/user-attachments/assets/9da30c31-1249-4f98-8172-1132fcd44cbf)
 # Instruções de uso
 1 - Baixe a última stable
