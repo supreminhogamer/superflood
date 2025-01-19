@@ -7,5 +7,7 @@ Floode um canal do discord, Projeto educativo, não use para o mal!
 ![stable](https://github.com/user-attachments/assets/e1fb2372-3901-4f19-86fb-96a33477ba98)
 
 2- Abra o programa
+
 3- Insira as informações necessárias
+
 4 - Feito!
